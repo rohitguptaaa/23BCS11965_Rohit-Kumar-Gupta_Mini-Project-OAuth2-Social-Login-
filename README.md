@@ -1,4 +1,4 @@
-# 🔐 Enterprise OAuth2 Authentication System - MERN Stack By Rohit Kumar Gupta
+# 🔐 Enterprise OAuth2 Authentication System - MERN Stack By Rohit Kumar Gupta.
 
 A complete, production-ready OAuth2 social authentication system with advanced security features, role-based access control, audit logging, and enterprise-level observability.
 
