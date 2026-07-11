@@ -12,7 +12,7 @@ const LoginPage = () => {
   const [searchParams] = useSearchParams()
 
   useEffect(() => {
-    // Check for OAuth errors in URL
+    // Check for OAuth errors in URL.
     const oauthError = searchParams.get('error')
     if (oauthError) {
       setError(`OAuth error: ${oauthError.replace(/_/g, ' ')}`)
